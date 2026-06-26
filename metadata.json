@@ -1,0 +1,6 @@
+{
+  "name": "FarmsEcoscapes",
+  "description": "Premium gardening, landscaping, lawn care & bonsai services in Hyderabad. Beautiful garden design, transformations, and maintenance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
